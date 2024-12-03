@@ -9,8 +9,10 @@ This project starts with verifying a syntactic functional algorithm that defines
 
 [1] John C. Reynolds. **_Transformational systems and the algebraic structure
 of atomic formulas_**. Machine Intell., 5(1):135–151, 1970.
+
 [2] Gordon D. Plotkin. _**A note on inductive generalization**_. Machine Intell.,
 5(1):153–163, 1970.
+
 [3] David M. Cerna and Temur Kutsia. _**Anti-unification and generalization:
       A survey**_. In Proceedings of the 32nd Int. Joint Conference on Artificial
       Intelligence, IJCAI, pages 6563–6573. ijcai.org, 2023.
