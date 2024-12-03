@@ -1,5 +1,7 @@
 # anti-unification
 
+This repository contains a verification in the iterative proof assistant PVS or a functional algorithm for syntactic anti-unification.
+
 Anti-unification is the problem of detecting commonalities between terms. Anti-unification algorithms are a core tool for detecting regularities in expressions, a crucial mechanism in developing tools to check plagiarism and commonalities in code and data.  Relevant recent applications include the development of parallel compilers and autocorrection of code. The seminal work on anti-unification was launched by John C. Reynolds and Gordon D. Plotkin at the end of the 1960s ([1,2]). Anti-unification was recently surveyed by David Cerna and Temur Kutsia  [3].
 
 This project starts with verifying a syntactic functional algorithm that defines a strategy for applying decomposition, solving, and trivial inference rules.  Although anti-unification has been considered a dual unification problem in several studies, this verification clarifies the different grades of complexity introduced by the necessity of using fresh variables to address anti-unification. 
