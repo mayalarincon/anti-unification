@@ -15,6 +15,8 @@ _first_order_substitution_ files contain the specification and formalization of 
 
 _antiunif_ files contain the specification and verification of a functional algorithm for syntactic anti-unification that defines a simple strategy to apply inference rules for the _decomposition_ of terms according to the commonalities of terms in an anti-unification problem,  a rule _solving_ differences between terms, considering repetitions of occurrences of these different terms in the structure of the problem, and for recording trivial _syntactic_ non-structural commonalities related to occurrences of the same constant, the same variable or the unit symbol.  
 
+These files are accompanied by a _Status_ file that reports the number of Type Correctness Conditions and formulas fully formalized. 
+
 The PVS version used in this development is PVS 8.0. 
 
 **References**
